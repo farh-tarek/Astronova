@@ -1,4 +1,4 @@
-🪐 Astronova – Graphic Design Timeline (4 Months)
+ Astronova – Graphic Design Timeline (4 Months)
  Project Idea
 
 Astronova is an initiative that brings astronomy and science to children and youth in rural and underserved areas.
