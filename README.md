@@ -29,7 +29,7 @@ The project includes:
 ## 👥 Team Members (pentaRae)
 
 - **Farah Tarek** (team leader) 
-- **Marouj Salah eldin**   
+- ** Mrouj Salah eldin**   
 - **Aisha Ibrahim**
 - **Reem mohamed** 
 ---
@@ -115,7 +115,7 @@ Below are the roles and responsibilities of each team member, divided into **Pri
 
 ---
 
-### **Mouroj Salah El-Din**
+### **Mrouj Salah El-Din**
 **Primary Responsibilities:**
 - Social Media Posts (4 posts)  
 - Pattern System Development  
