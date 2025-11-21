@@ -119,11 +119,13 @@ Below are the roles and responsibilities of each team member, divided into **Pri
 **Primary Responsibilities:**
 - Social Media Posts (4 posts)  
 - Pattern System Development  
-- Sticker Set Design  
+- Sticker Set Design
+- Digital painting
 - Mockups Production  
 
 **Secondary Responsibilities:**
-- Booklet: Visual Enhancements & Assets  
+- Booklet: Visual Enhancements & Assets
+ 
 
 ---
 
